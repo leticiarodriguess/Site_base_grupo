@@ -4,7 +4,7 @@ body{
 .row{
     margin-bottom: 20px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(202, 100, 180);
 }
 .col{
     background-color: white; 
